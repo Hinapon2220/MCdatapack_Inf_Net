@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "process_st":{
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "block":"minecraft:netherite_block",
+          "item":{
+          "enchantments":[{"enchantment":"minecraft:unbreaking","levels":3}]
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function":"hinapon:process/start"
+    }
+  }

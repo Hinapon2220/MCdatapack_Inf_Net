@@ -1,0 +1,1 @@
+#give @p player_head{SkullOwner:Hinapon_25, Enchantments:[{id:"looting",lvl:100},{id:"sharpness",lvl:100}]}

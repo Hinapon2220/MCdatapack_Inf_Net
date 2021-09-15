@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "hinapon:netherite_infinity"
+        }
+      }
+    },
+    "rewards": {
+      "function": "hinapon:craft/netherite_infinity"
+    }
+  }
